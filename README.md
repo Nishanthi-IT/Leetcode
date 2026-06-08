@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nishanthi-IT/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nishanthi-IT/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0088-merge-sorted-array](https://github.com/Nishanthi-IT/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Nishanthi-IT/Leetcode/tree/master/0118-pascals-triangle) |
 | [0228-summary-ranges](https://github.com/Nishanthi-IT/Leetcode/tree/master/0228-summary-ranges) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nishanthi-IT/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nishanthi-IT/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/Nishanthi-IT/Leetcode/tree/master/0088-merge-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Nishanthi-IT/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishanthi-IT/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Search
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Nishanthi-IT/Leetcode/tree/master/0088-merge-sorted-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishanthi-IT/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Math
 |  |
