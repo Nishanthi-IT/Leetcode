@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Nishanthi-IT/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Nishanthi-IT/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Nishanthi-IT/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Nishanthi-IT/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nishanthi-IT/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nishanthi-IT/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Linked List
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Nishanthi-IT/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Nishanthi-IT/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Nishanthi-IT/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0383-ransom-note](https://github.com/Nishanthi-IT/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nishanthi-IT/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nishanthi-IT/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Nishanthi-IT/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nishanthi-IT/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
