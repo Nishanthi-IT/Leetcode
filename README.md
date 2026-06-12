@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Nishanthi-IT/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nishanthi-IT/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Nishanthi-IT/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Nishanthi-IT/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishanthi-IT/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Nishanthi-IT/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Two Pointers
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Nishanthi-IT/Leetcode/tree/master/0009-palindrome-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nishanthi-IT/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Nishanthi-IT/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Nishanthi-IT/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nishanthi-IT/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Nishanthi-IT/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Hash Table
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Nishanthi-IT/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Nishanthi-IT/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/Nishanthi-IT/Leetcode/tree/master/0118-pascals-triangle) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Nishanthi-IT/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nishanthi-IT/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Nishanthi-IT/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Enumeration
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Nishanthi-IT/Leetcode/tree/master/0136-single-number) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Nishanthi-IT/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Counting
 |  |
 | ------- |
@@ -163,8 +167,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Nishanthi-IT/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Nishanthi-IT/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Nishanthi-IT/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Nishanthi-IT/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 <!---LeetCode Topics End-->
